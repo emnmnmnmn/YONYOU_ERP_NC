@@ -1,0 +1,14 @@
+## 用友 ERP-NC NCFindWeb 目录遍历漏洞
+## fofa: app="用友-UFIDA-NC"
+
+```
+python3 YONYOUNC_FindWeb.py -h
+
+python3 YONYOUNC_FindWeb.py -u http://xxx.xx.xx
+
+python3 YONYOUNC_FindWeb.py -f xxx.txt
+
+```
+## 结果存储在result.txt
+
+![image](https://github.com/emnmnmnmn/ZHIYUANOA_ReportServer/blob/main/9EJ%5D~%5D~B%5B%7BF%40JVG_O6KS%5DPX.png)
